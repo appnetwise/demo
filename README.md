@@ -1,2 +1,2 @@
 # demo
-Repo for Videos  demo of various applications developed. 
+Repo for showcasing various applications developed / under development. 
